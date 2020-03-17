@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мый путівник</string>
+    <string name="imageOne">imageOme</string>
+    <string name="textOne">Machu Picchu (Quechua - Old Peak) is a pre-Columbian Inca city located in the Andes at an altitude of 2400 m at the top of a mountain ridge above the Urubambi River valley in Peru, 80 km from the modern city of Cuzco. It is believed that the city was built as a sacred mountain shelter by the great Inca ruler Pachakutek a century before the fall of his empire, that is, around 1440.
+The inhabitants left Machu Picchu in 1532, shortly after the invasion of their conquerors by the Spanish conquerors. Although the conquistadors never reached Machu Picchu.</string>
+    <string name="textName">Machu-Picchu</string>
+</resources>
